@@ -1,25 +1,38 @@
-# Práctico : Front End - HTML 
-Creación de un proyecto y componentes básicos de HTML.
+# Práctico: Front End - HTML
 
-# Características de ejecución:
-1. En la raíz del proyecto, encontrarás un archivo llamado `index.html` y la carpeta `page` que contiene los archivos `struct.html`, `multimedia.html` y `form.html`. El archivo `index.html` contiene la solución y enlaces a los 8 ejercicios solicitados en este práctico.
-2. Para visualizar este archivo en tu navegador, tienes varias opciones:
-## Opción 1: Abrir directamente en el navegador
-  - Simplemente haz doble clic en el archivo `index.html` o haz clic derecho sobre el archivo y selecciona "Abrir con" y luego elige tu navegador preferido (Chrome, Firefox, etc.).
-## Opción 2: Usar Live Server
-   - Si estás utilizando Visual Studio Code, puedes instalar la extensión [Live Server]
-3. Si bien no se ven todos los puntos en el `index.html`, dentro de los links verás desarrollados los puntos restantes correspondiente al siguiente índice:
-## `index.html` se encuentran los siguientes puntos:
-  1. Estructura Básica del Documento HTML
-  2. Encabezados y Propiedades del Texto h2 y subrayado
-  4. Enlaces y Listas <-- AQUÍ SE ENCUENTRAN LOS ENLACES A struct, multimedia y form
-  6. Tablas
-## `pages/struct.html` se encuentran los siguientes puntos:
-  3. Divisiones y Agrupación de Contenido
-## `pages/multimedia.html` se encuentran los siguientes puntos:
-  5. Elementos Multimedia
-## `pages/form.html` se encuentran los siguientes puntos:
-  7. Formularios
+Este proyecto consiste en la creación de un documento HTML con componentes básicos que resuelven los 8 ejercicios solicitados en este práctico.
 
-       
+## Características de Ejecución
 
+1. En la raíz del proyecto, encontrarás los siguientes archivos y carpetas:
+   - `index.html`: Contiene la solución principal y enlaces a los 8 ejercicios.
+   - `pages/`: Carpeta que incluye:
+     - `struct.html`
+     - `multimedia.html`
+     - `form.html`
+     
+2. Para visualizar el archivo `index.html` en tu navegador, tienes varias opciones:
+
+   ### Opción 1: Abrir directamente en el navegador
+   - Haz doble clic en `index.html` o haz clic derecho sobre el archivo y selecciona "Abrir con", eligiendo tu navegador preferido (Chrome, Firefox, etc.).
+
+   ### Opción 2: Usar Live Server
+   - Si utilizas Visual Studio Code, puedes instalar la extensión [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
+   - Abre el proyecto en Visual Studio Code, haz clic derecho en `index.html` y selecciona "Open with Live Server". Esto abrirá el archivo en tu navegador y se actualizará automáticamente al realizar cambios.
+
+3. Organización de los ejercicios en los archivos:
+
+   - **`index.html`** contiene los siguientes puntos:
+     1. Estructura Básica del Documento HTML.
+     2. Encabezados y Propiedades del Texto (incluye el uso de etiquetas `<h2>` y subrayado).
+     3. Enlaces y Listas (con enlaces a los archivos `struct.html`, `multimedia.html`, y `form.html`).
+     4. Tablas.
+
+   - **`pages/struct.html`** cubre el siguiente punto:
+     1. Divisiones y Agrupación de Contenido.
+
+   - **`pages/multimedia.html`** aborda el siguiente punto:
+     1. Elementos Multimedia.
+
+   - **`pages/form.html`** incluye el siguiente punto:
+     1. Formularios.
