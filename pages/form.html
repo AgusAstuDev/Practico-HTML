@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Formulario</title>
+  </head>
+  <body>
+    <section>
+      <h1>7. Formularios</h1>
+      <a href="../index.html">Volver al home</a>
+      <section style="margin: 10px 0px">
+        <form
+          style="
+            width: 100%;
+            max-width: 400px;
+            display: grid;
+            grid-template-columns: 1;
+            gap: 5px;
+          "
+        >
+          <label for="nombre">Nombre:</label>
+          <input type="text" name="nombre" placeholder="Pepito" />
+          <label for="email">Email:</label>
+          <input type="email" name="email" placeholder="ejemplo@hotmail.com" />
+          <label for="mensaje">Mensaje:</label>
+          <textarea
+            id="mensaje"
+            name="mensaje"
+            style="resize: none; height: 60px"
+            placeholder="Intriduce aquí un mensaje"
+          ></textarea>
+          <button type="submit" style="padding: 5px 10px; cursor: pointer">
+            Enviar
+          </button>
+        </form>
+      </section>
+    </section>
+  </body>
+</html>
