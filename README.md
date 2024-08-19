@@ -23,16 +23,16 @@ Este proyecto consiste en la creación de un documento HTML con componentes bás
 3. Organización de los ejercicios en los archivos:
 
    - **`index.html`** contiene los siguientes puntos:
-     1- Estructura Básica del Documento HTML.
-     2- Encabezados y Propiedades del Texto (incluye el uso de etiquetas `<h2>` y subrayado).
-     4- Enlaces y Listas (con enlaces a los archivos `struct.html`, `multimedia.html`, y `form.html`).
-     6- Tablas.
+     -1. Estructura Básica del Documento HTML.
+     -2. Encabezados y Propiedades del Texto (incluye el uso de etiquetas `<h2>` y subrayado).
+     -4. Enlaces y Listas (con enlaces a los archivos `struct.html`, `multimedia.html`, y `form.html`).
+     -6. Tablas.
 
    - **`pages/struct.html`** cubre el siguiente punto:
-     3- Divisiones y Agrupación de Contenido.
+     -3. Divisiones y Agrupación de Contenido.
 
    - **`pages/multimedia.html`** aborda el siguiente punto:
-     5- Elementos Multimedia.
+     -5. Elementos Multimedia.
 
    - **`pages/form.html`** incluye el siguiente punto:
-     7- Formularios.
+     -7. Formularios.
