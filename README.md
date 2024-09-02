@@ -42,3 +42,6 @@ Este proyecto consiste en la creación de un documento HTML con componentes bás
    - **`pages/form.html`** incluye el siguiente punto:
 
      - 7 Formularios.
+    
+## Siguiente TP: Front End - CSS3
+Link al próximo TP: https://github.com/AgusAstuDev/Practico-CSS.git
